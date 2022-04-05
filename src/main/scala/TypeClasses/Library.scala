@@ -1,5 +1,7 @@
 package TypeClasses
 
+// Reference: https://www.baeldung.com/scala/type-classes
+
 object Library extends App {
 
 //  case class Genre(name: String)
